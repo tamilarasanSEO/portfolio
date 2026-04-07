@@ -1,0 +1,117 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "techietamil11@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:techietamil11@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 93601 58253",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919360158253"
+      },
+      {
+        "type": "website",
+        "label": "tamil.kesug.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "http://tamil.kesug.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon.png",
+        "link": "https://instagram.com"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com/in/tamilarasan"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Digital Marketing Certification - 2023",
+        "description": "Comprehensive training in full-funnel marketing, performance optimization, and data-driven strategy."
+      },
+      {
+        "title": "Performance Marketing Specialization - 2022",
+        "description": "Advanced coursework focused on Meta Ads, Google Ads, and conversion rate optimization (CRO)."
+      },
+      {
+        "title": "Bachelor of Commerce - 2021",
+        "description": "Foundational understanding of business management, economics, and marketing principles."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Meta Ads",
+        "icon": "/images/home/education-skill/meta-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Google Ads",
+        "icon": "/images/home/education-skill/google-ads-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "SEO",
+        "icon": "/images/home/education-skill/seo-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Copywriting",
+        "icon": "/images/home/education-skill/Copywriting-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Analytics",
+        "icon": "/images/home/education-skill/google-analytics-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Strategy",
+        "icon": "/images/home/education-skill/Strategy-icon.svg",
+        "rating": 5
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Instagram",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "techietamil11@gmail.com",
+        "link": "mailto:techietamil11@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 93601 58253",
+        "link": "tel:+919360158253"
+      }
+    ]
+  }
+}

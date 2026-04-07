@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpeg",
+      "title": "Meta Ads Campaign - E-commerce Growth",
+      "client": "Astra Tech",
+      "slug": "meta-ads-ecommerce"
+    },
+    {
+      "image": "/images/work/work-img-2.jpeg",
+      "title": "SEO Strategy - SaaS Content Expansion",
+      "client": "CloudScale Solutions",
+      "slug": "seo-strategy-saas"
+    },
+    {
+      "image": "/images/work/work-img-3.jpeg",
+      "title": "Social Media Management - Brand Awareness",
+      "client": "EcoStyle Fashion",
+      "slug": "social-media-management"
+    },
+    {
+      "image": "/images/work/work-img-4.jpeg",
+      "title": "Google Search Ads - Lead Generation",
+      "client": "FinTrust Services",
+      "slug": "google-ads-leads"
+    },
+    {
+      "image": "/images/work/work-img-5.jpeg",
+      "title": "Email Marketing - Customer Retention",
+      "client": "HealthFirst Plus",
+      "slug": "email-marketing-retention"
+    },
+    {
+      "image": "/images/work/work-img-6.jpeg",
+      "title": "Conversion Rate Optimization (CRO)",
+      "client": "GadgetHub Online",
+      "slug": "cro-landing-page"
+    }
+  ]
+}
